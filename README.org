@@ -1,0 +1,10 @@
+* cl-covid19
+
+Explore COVID-19 data with Common Lisp, gnuplot, SQL and Grafana
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/dnaeon/cl-covid19.git   |
+| commit  | de5db3e  |
+| systems | cl-covid19 |
+|---------+-------------------------------------------|
+
