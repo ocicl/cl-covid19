@@ -8,4 +8,4 @@ Explore COVID-19 data with Common Lisp, gnuplot, SQL and Grafana
 | systems | cl-covid19 |
 |---------+-------------------------------------------|
 
- 
+  
